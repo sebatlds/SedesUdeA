@@ -1,0 +1,2 @@
+rootProject.name='SedesUdeA'
+include ':app'

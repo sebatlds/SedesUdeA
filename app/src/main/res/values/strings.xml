@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SedesUdeA</string>
+    <string name="title_landing">Universidad de Antioquia</string>
+    <string name="button_continue">CONTINUE</string>
+    <string name="seleccionar_sede">Selecciona la sede</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
